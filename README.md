@@ -31,4 +31,4 @@ ex:
 ./producer ZINC 36 42 510 20 &
 
 ### Results
-![video](producer_consumer.mp4)
+![image](images/consumer.jpg)
